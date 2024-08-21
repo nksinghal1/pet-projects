@@ -1,1 +1,2 @@
 streamlit
+sudo apt-get install python3-scipy
